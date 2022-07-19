@@ -1,4 +1,4 @@
-# Entry for Web Scraping Competiton
+# Entry for Web Scraping Competition
 
 This is my entry for the intermediate-level Python web scraping challenge for YTAC (Cohort 8).
 
