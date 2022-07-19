@@ -7,7 +7,8 @@ This is my entry for the intermediate-level Python web scraping challenge for YT
 ## The Easy Way
 
 1. Download the pre-compiled program from the [releases](https://github.com/Payload9/WebScraping_Comp/releases/latest) page.
-2. Run `Webscraping_Comp.exe`.
+2. Extract contents to a folder.
+3. Run `Webscraping_Comp.exe`.
 
 ## The Slightly Complicated Way
 
